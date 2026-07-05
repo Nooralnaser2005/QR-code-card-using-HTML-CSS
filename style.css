@@ -1,0 +1,47 @@
+body{
+ background-color:#d5e1ef;
+ display: flex;
+ justify-content: center; 
+align-items: center;
+padding-top: 200px;
+ 
+
+}
+div{
+    background-color: #ffffff;
+    display: flex;
+    flex-direction:column ;
+    border-radius: 30px;
+    width: 280px;
+    height:450px ;
+    text-align: center;
+    justify-content: center; 
+    align-items: center;
+    
+
+}
+img{
+width: 250px;
+height: 250px;
+border-radius: 20px;
+
+}
+.main_text{
+    font-weight: bold;
+    color: #1c2846;
+    width:250px ;
+    font-size: 20px;
+    padding-bottom: 0px;
+    margin-bottom: 10px;
+    
+
+}
+.second_text{
+font-weight:100;
+    color: #b9bdc4;
+    width:250px ;
+    font-size: 16px;
+
+
+
+}
